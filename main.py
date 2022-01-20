@@ -7,3 +7,4 @@ if __name__ == '__main__':
     did_this_change = True
     if did_this_change:
         print("true")
+        print("allgooddawg")
